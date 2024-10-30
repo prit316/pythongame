@@ -1,0 +1,4 @@
+("Storage", ["Cardboard Boxes", "Metal Ladder", "Blue Table", "Red Metal Stool", "Brown Wooden Chairs"])
+("Garage", ["Black Range Rover", "Red metal Lawn mover", "Black Plastic Tool Box", "Water dispenser"])
+("Office", ["Brown Wooden Desk", "Green Leather Sofa", "Blue Gaming Chair", "Computer"])
+("Garden", ["Red Metal Swing", "Green Plastic Slide", "Green Grass", "Black Plastic Sprinkler"])
